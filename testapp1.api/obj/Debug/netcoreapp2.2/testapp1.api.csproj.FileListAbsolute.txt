@@ -1,0 +1,14 @@
+C:\app\testapp1\testapp1.api\bin\Debug\netcoreapp2.2\testapp1.api.deps.json
+C:\app\testapp1\testapp1.api\bin\Debug\netcoreapp2.2\testapp1.api.runtimeconfig.json
+C:\app\testapp1\testapp1.api\bin\Debug\netcoreapp2.2\testapp1.api.runtimeconfig.dev.json
+C:\app\testapp1\testapp1.api\bin\Debug\netcoreapp2.2\testapp1.api.dll
+C:\app\testapp1\testapp1.api\bin\Debug\netcoreapp2.2\testapp1.api.pdb
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.csprojAssemblyReference.cache
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.csproj.CoreCompileInputs.cache
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.RazorAssemblyInfo.cache
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.RazorAssemblyInfo.cs
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.AssemblyInfoInputs.cache
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.AssemblyInfo.cs
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.RazorTargetAssemblyInfo.cache
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.dll
+C:\app\testapp1\testapp1.api\obj\Debug\netcoreapp2.2\testapp1.api.pdb
